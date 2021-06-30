@@ -1,0 +1,16 @@
+C:\Users\lenovo\source\repos\PBlocker\PBlocker\obj\Debug\net5.0-windows\PBlocker.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\PBlocker\PBlocker\obj\Debug\net5.0-windows\PBlocker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\PBlocker\PBlocker\obj\Debug\net5.0-windows\PBlocker.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\PBlocker\PBlocker\obj\Debug\net5.0-windows\PBlocker.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\PBlocker\PBlocker\obj\Debug\net5.0-windows\PBlocker.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\PBlocker\PBlocker\bin\Debug\net5.0-windows\PBlocker.exe
+C:\Users\lenovo\source\repos\PBlocker\PBlocker\bin\Debug\net5.0-windows\PBlocker.deps.json
+C:\Users\lenovo\source\repos\PBlocker\PBlocker\bin\Debug\net5.0-windows\PBlocker.runtimeconfig.json
+C:\Users\lenovo\source\repos\PBlocker\PBlocker\bin\Debug\net5.0-windows\PBlocker.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\PBlocker\PBlocker\bin\Debug\net5.0-windows\PBlocker.dll
+C:\Users\lenovo\source\repos\PBlocker\PBlocker\bin\Debug\net5.0-windows\ref\PBlocker.dll
+C:\Users\lenovo\source\repos\PBlocker\PBlocker\bin\Debug\net5.0-windows\PBlocker.pdb
+C:\Users\lenovo\source\repos\PBlocker\PBlocker\obj\Debug\net5.0-windows\PBlocker.dll
+C:\Users\lenovo\source\repos\PBlocker\PBlocker\obj\Debug\net5.0-windows\ref\PBlocker.dll
+C:\Users\lenovo\source\repos\PBlocker\PBlocker\obj\Debug\net5.0-windows\PBlocker.pdb
+C:\Users\lenovo\source\repos\PBlocker\PBlocker\obj\Debug\net5.0-windows\PBlocker.genruntimeconfig.cache
